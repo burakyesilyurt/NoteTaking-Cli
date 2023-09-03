@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@inquirer/prompts": "^3.0.4",
+    "index.js": "file:../../../../AppData/Roaming/npm/node_modules/index.js"
+  },
+  "type": "commonjs",
+  "name": "bnotes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Burak Yeşilyurt",
+  "license": "ISC",
+  "description": "",
+  "bin": {
+    "bnotes": "./index.js"
+  }
+}
