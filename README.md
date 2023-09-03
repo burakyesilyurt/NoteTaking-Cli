@@ -19,6 +19,7 @@ To use **NoteTaking-Cli** as a global command, you can link it via npm. Follow t
    ```bash
    git clone https://github.com/yourusername/NoteTaking-Cli.git
    cd NoteTaking-Cli
+   npm install
    npm link
 ## Usage
 Now you can call it as
